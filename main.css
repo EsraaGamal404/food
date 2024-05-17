@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.title{
+    background-color: #fff;
+    height: 13vh;
+    box-shadow: 2px 2px 12px  #4b4a4a;
+}
+.title h1{
+    padding: 15px;
+    font-size: 40px;
+}
+ul li a{
+    text-decoration: none;
+    color: #000;
+    margin: 0px 20px;
+    position: relative;
+    bottom: 9vh;
+}
+ul li a:hover{
+    color: rgb(250, 9, 129);
+}
+ul li{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(250, 9, 129);
+    border-radius: 10px;
+    color: rgb(250, 9, 129);
+    border: 1px solid rgb(250, 9, 129);
+    position: relative;
+    left: 16vh; bottom: 7vh;
+}
+ .logo img{
+    width: 20px;
+   position: relative;
+   left: 170vh;
+   bottom: 6vh;
+}
+.font{
+    background-color: #000;
+    height: 3px;
+}
+.img2{
+margin: 0px 40px;  
+}
+.content{
+    background-color: #fff;
+    height: 85vh;
+    position: relative;
+    bottom: 5vh;
+}
+.content h1,p{
+    text-align: center;
+}
+span{
+    color: rgb(250, 9, 129);
+}
+.image1{
+    width: 22vw;
+    height: 50vh;
+    background-color: rgb(250, 244, 237);
+    position: relative;
+    top: 10vh;
+}
+.soso{
+    width: 270px;
+    padding: 10px;
+}
+.image1 h2,.image2 h2,.image3 h2{
+    text-align: center;
+}
+.png{
+    width: 20px;
+    position: relative;
+    left: 17vh;
+    top: 3vh;
+}
+.image2{
+    width: 22vw;
+    height: 50vh;
+    background-color: rgb(250, 244, 237);
+    position: relative;
+    left: 80vh; bottom: 40vh;
+}
+.image3{
+    width: 22vw;
+    height: 50vh;
+    background-color: rgb(250, 244, 237);
+    position: relative;
+    left: 70vh; bottom: 47vh;
+}
